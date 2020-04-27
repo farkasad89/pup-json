@@ -5,28 +5,28 @@
          "color":"white",
          "gender":"male",
          "photoURL":"https://images.unsplash.com/photo-1543337676-7712b5028449?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
-         "uid":"213125sdfq"
+         "id":"1"
       },
       {
          "name":"Gummy",
          "color":"brown",
          "gender":"male",
          "photoURL":"https://images.unsplash.com/photo-1518378188025-22bd89516ee2?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
-         "uid":"sadfq32rsdf"
+         "id":"2"
       },
       {
          "name":"Fiona",
          "color":"white",
          "gender":"female",
          "photoURL":"https://images.unsplash.com/photo-1558692374-2fdedcee3463?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
-         "uid":"adsva2ewf"
+         "id":"3"
       },
       {
          "name":"Chloe",
          "color":"brown",
          "gender":"female",
          "photoURL":"https://images.unsplash.com/photo-1576509742265-4ec796f8ad04?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
-         "uid":"va23sdaf"
+         "id":"4"
       }
    ]
 }
